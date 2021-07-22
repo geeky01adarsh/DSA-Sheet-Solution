@@ -12,7 +12,8 @@ class Solution{
     public:
     //Function to return the count of number of elements in union of two arrays.
     int doUnion(int a[], int n, int b[], int m)  {
-        //code here
+        // count the total no elements present
+// 	    iterating through both the arrays and storing the count in a boolean array
         int ans =0;
         bool arr[100001]={0};
         for(int i=0; i<n; i++){
