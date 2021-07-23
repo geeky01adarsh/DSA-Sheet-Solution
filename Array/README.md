@@ -12,3 +12,5 @@
 8. find Largest sum contiguous Subarray [V. IMP]. [Question](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0) ==> [Solution]()
 9. Minimise the maximum difference between heights [V.IMP]. [Question](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0) ==> [Solution]()
 10. Minimum no. of Jumps to reach end of an array. [Question](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0) ==> [Solution]()
+11. find duplicate in an array of N+1 Integers. [Question](https://leetcode.com/problems/find-the-duplicate-number/) ==> [Solution](url)
+12. Merge 2 sorted arrays without using Extra space. [Question](https://leetcode.com/problems/find-the-duplicate-number/) ==> [Solution](https://github.com/geeky01adarsh/DSA-Sheet-Solution/blob/main/Array/merge_two_sorted_arr_without_extra_space.cpp)
