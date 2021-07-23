@@ -9,7 +9,7 @@
 5. Move all the negative elements to one side of the array. [Question](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/) ==> [Solution]()
 6. Find the Union and Intersection of the two sorted arrays. [Question](https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0) ==> [Solution]()
 7. Write a program to cyclically rotate an array by one. [Question](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/0) ==> [Solution]()
-8. find Largest sum contiguous Subarray [V. IMP]. [Question](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0) ==> [Solution]()
+8. find Largest sum contiguous Subarray [V. IMP] *Kadane's Algorithm*. [Question](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0) ==> [Solution]()
 9. Minimise the maximum difference between heights [V.IMP]. [Question](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0) ==> [Solution]()
 10. Minimum no. of Jumps to reach end of an array. [Question](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0) ==> [Solution]()
 11. find duplicate in an array of N+1 Integers. [Question](https://leetcode.com/problems/find-the-duplicate-number/) ==> [Solution](url)
