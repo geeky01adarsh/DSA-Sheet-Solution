@@ -6,6 +6,7 @@ You can get your copy of Love Babbar's DSA sheet from [here](https://drive.googl
 
 Topics Covered in this repository - 
 1. [Arrays](https://github.com/AdarshGeek/DSA-Sheet-Solution/tree/main/Array)
+2. [Matix](https://github.com/geeky01adarsh/DSA-Sheet-Solution/tree/main/Matrix)
 
 Feel free to fork this repo or for any doubt ping me on any of my social media handles:-
 * Twitter - [@geeky01adarsh](https://twitter.com/geeky01adarsh)
