@@ -5,8 +5,10 @@ This repository contains solution of all solutions of Love Babbar's DSA Sheet wi
 You can get your copy of Love Babbar's DSA sheet from [here](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view).
 
 Topics Covered in this repository - 
-1. [Arrays](https://github.com/AdarshGeek/DSA-Sheet-Solution/tree/main/Array)
-2. [Matix](https://github.com/geeky01adarsh/DSA-Sheet-Solution/tree/main/Matrix)
+|S.no.| Topic | Status |
+|---|---------|------|
+|1. |[Arrays](https://github.com/AdarshGeek/DSA-Sheet-Solution/tree/main/Array)| 33/37 |
+|2. |[Matrix](https://github.com/geeky01adarsh/DSA-Sheet-Solution/tree/main/Matrix)| 0/10 |
 
 Feel free to fork this repo or for any doubt ping me on any of my social media handles:-
 * Twitter - [@geeky01adarsh](https://twitter.com/geeky01adarsh)
