@@ -10,5 +10,5 @@ S. No. | Question  |  Link  |  Solution |
 | 06 | Maximum size Rectangle   | [Question](https://practice.geeksforgeeks.org/problems/max-rectangle/1) | To be uploaded |
 | 07 | Rotate array by 90 degrees  | [Question](https://www.geeksforgeeks.org/rotate-a-matrix-by-90-degree-in-clockwise-direction-without-using-any-extra-space/) | To be uploaded |
 | 08 | Find a specific pair in matrix  | [Question](https://www.geeksforgeeks.org/find-a-specific-pair-in-matrix/) | To be uploaded 
-| 09 | Kth elemnts in matrix | [Question](https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1) | To be uploaded |
+| 09 | Kth elemnts in matrix | [Question](https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1) | [Solution](https://github.com/geeky01adarsh/DSA-Sheet-Solution/blob/main/Matrix/kth_element_in_row_column_sorted_matrix.cpp) |
 | 10 | Common elements in all rows of a given matrix | [Question](https://www.geeksforgeeks.org/common-elements-in-all-rows-of-a-given-matrix/) | [Solution](https://github.com/geeky01adarsh/DSA-Sheet-Solution/blob/main/Matrix/common_ele_in_all_rows_of_matrix.cpp) |
