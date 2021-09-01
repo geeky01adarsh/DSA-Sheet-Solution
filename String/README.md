@@ -6,7 +6,7 @@
 |02. | [Check whether a string is palindrome or not](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1) | [Solution](https://github.com/geeky01adarsh/DSA-Sheet-Solution/blob/main/String/palindromic_string.cpp)|
 |03. | [Print the duplicate characters in the string](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/) | [Solution](https://github.com/geeky01adarsh/DSA-Sheet-Solution/blob/main/String/duplicate_in_string.cpp)
 |04. | Why are Stings immutable in java | Pending |
-|05. ||Pending|
+|05. |[Write a Code to check whether one string is a rotation of another](https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/)|[Solution](check_if_string_is__in_rotation.cpp)|
 |06. ||Pending|
 |07. ||Pending|
 |08. ||Pending|
