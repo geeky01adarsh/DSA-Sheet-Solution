@@ -9,7 +9,7 @@ Topics Covered in this repository -
 |---|---------|------|
 |1. |[Arrays](https://github.com/AdarshGeek/DSA-Sheet-Solution/tree/main/Array)| 33/37 |
 |2. |[Matrix](https://github.com/geeky01adarsh/DSA-Sheet-Solution/tree/main/Matrix)| 3/10 |
-|3. |[String](https://github.com/geeky01adarsh/DSA-Sheet-Solution/tree/main/String )| 2/43 |
+|3. |[String](https://github.com/geeky01adarsh/DSA-Sheet-Solution/tree/main/String )| 6/43 |
 
 #### Thank You for visiting this repo. Please provide support by staring it.
 #### Feel free to contact me for any doubt/suggestions
