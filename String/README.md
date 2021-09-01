@@ -8,7 +8,7 @@
 |04. | Why are Stings immutable in java | Pending |
 |05. |[Write a Code to check whether one string is a rotation of another](https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/)|[Solution](check_if_string_is__in_rotation.cpp)|
 |06. |[Write a Program to check whether a string is a valid shuffle of two strings or not](https://www.programiz.com/java-programming/examples/check-valid-shuffle-of-strings)|[Solution](string_Shuffle.cpp)|
-|07. |[Count and Say problem](https://leetcode.com/problems/count-and-say/)|Pending|
+|07. |[Count and Say problem](https://leetcode.com/problems/count-and-say/)|[Solution](count_and_say.cpp)|
 |08. |[Write a program to find the longest Palindrome in a string. Longest palindromic Substring](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/0)|Pending|
 |09. |[Find Longest Recurring Subsequence in String](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0)|Pending|
 |10. |[Print all Subsequences of a string.](https://www.geeksforgeeks.org/print-subsequences-string/)|Pending|
