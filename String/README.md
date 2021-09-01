@@ -7,13 +7,13 @@
 |03. | [Print the duplicate characters in the string](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/) | [Solution](https://github.com/geeky01adarsh/DSA-Sheet-Solution/blob/main/String/duplicate_in_string.cpp)
 |04. | Why are Stings immutable in java | Pending |
 |05. |[Write a Code to check whether one string is a rotation of another](https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/)|[Solution](check_if_string_is__in_rotation.cpp)|
-|06. ||Pending|
-|07. ||Pending|
-|08. ||Pending|
-|09. ||Pending|
-|10. ||Pending|
-|11. ||Pending|
-|12. ||Pending|
+|06. |[Write a Program to check whether a string is a valid shuffle of two strings or not](https://www.programiz.com/java-programming/examples/check-valid-shuffle-of-strings)|[Solution](string_Shuffle.cpp)|
+|07. |[Count and Say problem](https://leetcode.com/problems/count-and-say/)|Pending|
+|08. |[Write a program to find the longest Palindrome in a string. Longest palindromic Substring](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/0)|Pending|
+|09. |[Find Longest Recurring Subsequence in String](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0)|Pending|
+|10. |[Print all Subsequences of a string.](https://www.geeksforgeeks.org/print-subsequences-string/)|Pending|
+|11. |[Print all the permutations of the given string](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0)|Pending|
+|12. |[Split the Binary string into two substring with equal 0’s and 1’s](https://www.geeksforgeeks.org/split-the-binary-string-into-substrings-with-equal-number-of-0s-and-1s/)|Pending|
 |13. ||Pending|
 |14. ||Pending|
 |15. ||Pending|
